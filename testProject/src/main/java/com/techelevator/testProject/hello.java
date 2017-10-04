@@ -17,7 +17,7 @@ public class hello {
 				System.out.println("Next time I'm editing your for loop");
 			}
 		}
+		
+		System.out.println("Hello World");
 	}
-	
-	
 }
